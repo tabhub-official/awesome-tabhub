@@ -1,2 +1,2 @@
-# awesome-sharelink
-Collection of ShareLink repositories
+# awesome-tabhub
+Collection of TabHub repositories
